@@ -1,2 +1,2 @@
 # Esercizi-tpsit
-repository tpsit anno 202-2021
+repository tpsit anno 2020-2021
